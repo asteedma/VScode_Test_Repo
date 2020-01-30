@@ -1,6 +1,7 @@
 # %%
-msg = "hello"
-print(msg)
+import sys
+
+print(sys.executable)
 
 
 def greeting(who_to_greet):
